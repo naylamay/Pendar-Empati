@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--
+Template Name: Yammoe
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>Pendar Empati - Galeri</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/pendarbanner.png');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row0">
+    <div id="topbar" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      
+      <p class="fl_right nospace"><a class="btn" href="#">Hubungi Kami</a></p>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear">
+      <div id="logo" class="fl_left"> 
+        <!-- ################################################################################################ -->
+        <h1><a href="index.html"><img src="images/pendarlogo.png"></a></h1>
+        <!-- ################################################################################################ -->
+      </div>
+      <nav id="mainav" class="fl_right"> 
+        <!-- ################################################################################################ -->
+        <ul class="clear">
+          <li class="active"><a href="index.html">Beranda</a></li>
+          <li><a class="drop" href="#">Blog</a>
+            <ul>
+              <li><a href="pages/galeri.html">Galeri</a></li>
+              <li><a href="pages/berita.html">Berita</a></li>
+            </ul>
+          </li>
+          <li><a class="drop" href="#">Dropdown</a>
+            <ul>
+              <li><a href="#">Level 2</a></li>
+              <li><a class="drop" href="#">Level 2 + Drop</a>
+                <ul>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Level 2</a></li>
+            </ul>
+          </li>
+          <!--
+          <li><a href="#">Link Text</a></li>
+          <li><a href="#">Link Text</a></li>
+          <li><a href="#">Link Text</a></li>
+        </ul>
+      -->
+        <!-- ################################################################################################ -->
+      </nav>
+    </header>
+  </div>
+  
+  
+  
+  
+  <!-- Bottom Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/bottomwrapper.png');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row4">
+    <footer id="footer" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div class="group btmspace-50">
+        <div class="one_half first">
+          <h6 class="heading">Tempat lain untuk mengunjungi kami</h6>
+          <ul class="faico clear">
+            <li><a class="fab fa-instagram" href="https://www.instagram.com/pendarempati/"><i class="faicon-instagram"></i><img src="images/2227.jpg"></a></li>
+          </ul>
+        </div>
+        <div class="one_half">
+          <h6 class="heading">Hubungi kami</h6>
+          <p class="nospace btmspace-15">Ante dapibus luctus sed quis diam vitae ipsum ultrices vehi.</p>
+          <form action="#" method="post">
+            <fieldset>
+              <legend>Newsletter:</legend>
+              <input class="btmspace-15" type="text" value="" placeholder="Nama">
+              <input class="btmspace-15" type="text" value="" placeholder="Pesan">
+              <input class="btmspace-15" type="text" value="" placeholder="Email">
+              <button class="btn" type="submit" value="submit">Submit</button>
+            </fieldset>
+          </form>
+        </div>
+      <!-- ################################################################################################ -->
+    </footer>
+  </div>
+  
+  
+  
+  
+  
